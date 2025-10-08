@@ -1,0 +1,49 @@
+"Samples_ID","number","Collection_month","Year_collection","Collection_date","Block_ID","Lake_ID","filter_pore_size","Bological_Replicates","UTC","Hour_Collection_start","Hour_Collection_end","L_F","L_M","L_SC","L_SL","L_tot_filtered","Treatment","Sampling_type","Pompe","expe","Comments_field","Transfer_date","Extraction_date","Sample_ID","Sample_Type","type","control_type","Sample","Replicate"
+"L10_0.45_Nov22",349,"November",2022,"18.11.2022","B3","L10","0.45",NA,"winter","13:20:00","13:40:00","1","1","1","1","4","P","Monthly",NA,NA,"",NA,NA,"118_rep1","sample","sample",NA,"118",1
+"L11_0.45_Nov22",351,"November",2022,"18.11.2022","B3","L11","0.45",NA,"winter","13:43:00","14:13:00","1","1","0,75","0,55","3,3","N","Monthly",NA,NA,"",NA,NA,"119_rep3","sample","sample",NA,"119",3
+"L12_0.45_Nov22",353,"November",2022,"18.11.2022","B3","L12","0.45",NA,"winter","13:42:00","14:19:00","1","0,8","0,34","0,24","2,38","none","Monthly",NA,NA,"",NA,NA,"120_rep1","sample","sample",NA,"120",1
+"L1_0.45_Dec22",355,"December",2022,"15.12.2012","B1","L1","0.45",NA,"winter","12:40:00","13:03:00","1","1","1","0,7","3,7","N","Monthly",NA,NA,"",NA,NA,"121_rep1","sample","sample",NA,"121",1
+"L3_0.45_Dec22",359,"December",2022,"15.12.2012","B1","L3","0.45",NA,"winter","12:40:00","12:50:00","1","1","1","1","4","NP","Monthly",NA,NA,"",NA,NA,"123_rep3","sample","sample",NA,"123",3
+"L4_0.45_Dec22",361,"December",2022,"15.12.2012","B1","L4","0.45",NA,"winter","12:40:00","13:00:00","1","1","1","1","4","P","Monthly",NA,NA,"",NA,NA,"124_rep2","sample","sample",NA,"124",2
+"L5_0.45_Dec22",363,"December",2022,"15.12.2012","B2","L5","0.45",NA,"winter","13:12:00","13:45:00","1","0,9","0,4","0,45","2,75","P","Monthly",NA,NA,"",NA,NA,"125_rep3","sample","sample",NA,"125",3
+"L6_0.45_Dec22",365,"December",2022,"15.12.2012","B2","L6","0.45",NA,"winter","12:59:00","12:59:00","1","1","1","1","4","NP","Monthly",NA,NA,"",NA,NA,"126_rep3","sample","sample",NA,"126",3
+"L7_0.45_Dec22",367,"December",2022,"15.12.2012","B2","L7","0.45",NA,"winter","13:00:00","13:10:00","1","1","1","1","4","none","Monthly",NA,NA,"",NA,NA,"127_rep1","sample","sample",NA,"127",1
+"L8_0.45_Dec22",369,"December",2022,"15.12.2012","B2","L8","0.45",NA,"winter","13:06:00","13:22:00","1","1","1","1","4","N","Monthly",NA,NA,"",NA,NA,"128_rep2","sample","sample",NA,"128",2
+"L10_0.45_Dec22",373,"December",2022,"15.12.2012","B3","L10","0.45",NA,"winter","13:28:00","13:48:00","1","1","1","1","4","P","Monthly",NA,NA,"",NA,NA,"130_rep1","sample","sample",NA,"130",1
+"L11_0.45_Dec22",375,"December",2022,"15.12.2012","B3","L11","0.45",NA,"winter","13:25:00","13:56:00","1","1","1","1","4","N","Monthly",NA,NA,"",NA,NA,"131_rep1","sample","sample",NA,"131",1
+"L12_0.45B_Dec22",377,"December",2022,"15.12.2012","B3","L12","0.45","blue","winter","13:36:00","14:00:00","1","1","1","1","4","none","Monthly",NA,NA,"",NA,NA,"132_rep3","sample","sample",NA,"132",3
+"L12_0.45O_Dec22",379,"December",2022,"15.12.2012","B3","L12","0.45","orange ","winter","13:36:00","14:00:00","1","1","1","1","4","none","Monthly",NA,NA,"",NA,NA,"133_rep2","sample","sample",NA,"133",2
+"L12_0.45R_Dec22",381,"December",2022,"15.12.2012","B3","L12","0.45","red","winter","13:36:00","14:00:00","1","1","1","1","4","none","Monthly",NA,NA,"",NA,NA,"134_rep1","sample","sample",NA,"134",1
+"L1_0.45_Janv23",422,"January",2023,"25.01.2023","B1","L1","0.45",NA,"winter","12:45:00","13:04:00","1","1","1","1","4","N","Monthly",NA,NA,"",NA,NA,"136_rep1","sample","sample",NA,"136",1
+"L2_0.45B_Janv23",423,"January",2023,"25.01.2023","B1","L2","0.45","blue","winter","12:50:00","13:30:00","1","1","1","1","4","none","Monthly",NA,NA,"",NA,NA,"137_rep2","sample","sample",NA,"137",2
+"L2_0.45O_Janv23",424,"January",2023,"25.01.2023","B1","L2","0.45","orange ","winter","12:50:00","13:30:00","1","1","1","0,95","3,95","none","Monthly",NA,NA,"",NA,NA,"138_rep1","sample","sample",NA,"138",1
+"L3_0.45_Janv23",427,"January",2023,"25.01.2023","B1","L3","0.45",NA,"winter","12:50:00","13:10:00","1","1","1","0,7","3,7","NP","Monthly",NA,NA,"",NA,NA,"141_rep3","sample","sample",NA,"141",3
+"L4_0.45_Janv23",428,"January",2023,"25.01.2023","B1","L4","0.45",NA,"winter","12:55:00","13:06:00","1","1","1","1","4","P","Monthly",NA,NA,"",NA,NA,"142_rep1","sample","sample",NA,"142",1
+"L5_0.45_Janv23",429,"January",2023,"25.01.2023","B2","L5","0.45",NA,"winter","13:13:00","13:45:00","1","1","0,6","0,55","3,15","P","Monthly",NA,NA,"",NA,NA,"143_rep2","sample","sample",NA,"143",2
+"L6_0.45_Janv23",430,"January",2023,"25.01.2023","B2","L6","0.45",NA,"winter","13:48:00","13:58:00","1","1","1","1","4","NP","Monthly",NA,NA,"",NA,NA,"144_rep2","sample","sample",NA,"144",2
+"L7_0.45_Janv23",431,"January",2023,"25.01.2023","B2","L7","0.45",NA,"winter","13:18:00","13:38:00","1","1","1","0,7","3,7","none","Monthly",NA,NA,"",NA,NA,"145_rep3","sample","sample",NA,"145",3
+"L8_0.45_Janv23",432,"January",2023,"25.01.2023","B2","L8","0.45",NA,"winter","13:15:00","13:22:00","1","1","1","1","4","N","Monthly",NA,NA,"",NA,NA,"146_rep3","sample","sample",NA,"146",3
+"L10_0.45_Janv23",434,"January",2023,"25.01.2023","B3","L10","0.45",NA,"winter","14:05:00","14:20:00","1","1","1","1","4","P","Monthly",NA,NA,"",NA,NA,"148_rep1","sample","sample",NA,"148",1
+"L11_0.45_Janv23",435,"January",2023,"25.01.2023","B3","L11","0.45",NA,"winter","13:47:00","14:14:00","1","1","0,68","0,42","3,1","N","Monthly",NA,NA,"",NA,NA,"149_rep1","sample","sample",NA,"149",1
+"L12_0.45_Janv23",436,"January",2023,"25.01.2023","B3","L12","0.45",NA,"winter","13:30:00","14:08:00","1","1","1","0,4","3,4","none","Monthly",NA,NA,"",NA,NA,"150_rep3","sample","sample",NA,"150",3
+"L1_0.45_Feb23",437,"February",2023,"21.02.2023","B1","L1","0.45",NA,"winter","13:27:00","12:52:00","1","1","1","0,65","3,65","N","Monthly",NA,NA,"",NA,NA,"151_rep1","sample","sample",NA,"151",1
+"L2_0.45_Feb23",438,"February",2023,"21.02.2023","B1","L2","0.45",NA,"winter","12:30:00","12:41:00","1","1","1","1","4","none","Monthly",NA,NA,"",NA,NA,"152_rep2","sample","sample",NA,"152",2
+"L3_0.45_Feb23",439,"February",2023,"21.02.2023","B1","L3","0.45",NA,"winter","12:29:00","12:49:00","1","1","1","0,9","3,9","NP","Monthly",NA,NA,"",NA,NA,"153_rep2","sample","sample",NA,"153",2
+"L4_0.45_Feb23",440,"February",2023,"21.02.2023","B1","L4","0.45",NA,"winter","12:30:00","12:45:00","1","1","1","1","4","P","Monthly",NA,NA,"",NA,NA,"154_rep3","sample","sample",NA,"154",3
+"L5_0.45_Feb23",441,"February",2023,"21.02.2023","B2","L5","0.45",NA,"winter","13:08:00","13:44:00","1","1","0,37","0,3","2,67","P","Monthly",NA,NA,"",NA,NA,"155_rep2","sample","sample",NA,"155",2
+"L6_0.45_Feb23",442,"February",2023,"21.02.2023","B2","L6","0.45",NA,"winter","12:53:00","13:02:00","1","1","1","1","4","NP","Monthly",NA,NA,"",NA,NA,"156_rep3","sample","sample",NA,"156",3
+"L7_0.45B_Feb23",443,"February",2023,"21.02.2023","B2","L7","0.45","blue","winter","13:01:00","12:28:00","1","1","1","0,9","3,9","none","Monthly",NA,NA,"",NA,NA,"157_rep3","sample","sample",NA,"157",3
+"L7_0.45O_Feb23",444,"February",2023,"21.02.2023","B2","L7","0.45","orange ","winter","13:01:00","12:28:00","1","1","1","1","4","none","Monthly",NA,NA,"",NA,NA,"158_rep1","sample","sample",NA,"158",1
+"L7_0.45R_Feb23",445,"February",2023,"21.02.2023","B2","L7","0.45","red","winter","13:01:00","12:28:00","1","1","1","0,9","3,9","none","Monthly",NA,NA,"",NA,NA,"159_rep3","sample","sample",NA,"159",3
+"L8_0.45_Feb23",447,"February",2023,"21.02.2023","B2","L8","0.45",NA,"winter","12:56:00","13:02:00","1","1","1","1","4","N","Monthly",NA,NA,"",NA,NA,"161_rep1","sample","sample",NA,"161",1
+"L9_0.45_Feb23",448,"February",2023,"21.02.2023","B3","L9","0.45",NA,"winter","13:46:00","12:52:00","1","1","1","1","4","NP","Monthly",NA,NA,"",NA,NA,"162_rep2","sample","sample",NA,"162",2
+"L10_0.45_Feb23",449,"February",2023,"21.02.2023","B3","L10","0.45",NA,"winter","13:14:00","13:21:00","1","1","1","1","4","P","Monthly",NA,NA,"",NA,NA,"163_rep3","sample","sample",NA,"163",3
+"L11_0.45_Feb23",450,"February",2023,"21.02.2023","B3","L11","0.45",NA,"winter","13:41:00","14:07:00","1","1","1","0,7","3,7","N","Monthly",NA,NA,"",NA,NA,"164_rep2","sample","sample",NA,"164",2
+"L12_0.45_Feb23",451,"February",2023,"21.02.2023","B3","L12","0.45",NA,"winter","13:15:00","13:36:00","1","1","1","1","4","none","Monthly",NA,NA,"",NA,NA,"165_rep3","sample","sample",NA,"165",3
+"L1_0.45_March23",452,"March",2023,"28.03.2023","B1","L1","0.45",NA,"summer","13:30:00","13:50:00","1","1","1","1","4","N","Monthly",NA,NA,"",NA,NA,"166_rep3","sample","sample",NA,"166",3
+"L2_0.45_March23",453,"March",2023,"28.03.2023","B1","L2","0.45",NA,"summer","13:30:00","13:59:00","1","1","1","1","4","none","Monthly",NA,NA,"",NA,NA,"167_rep1","sample","sample",NA,"167",1
+"L3_0.45_March23",454,"March",2023,"28.03.2023","B1","L3","0.45",NA,"summer","13:30:00","13:45:00","1","1","1","0,75","3,75","NP","Monthly",NA,NA,"",NA,NA,"168_rep2","sample","sample",NA,"168",2
+"L4_0.45O_March23",456,"March",2023,"28.03.2023","B1","L4","0.45","orange ","summer","13:54:00","14:05:00","1","1","1","1","4","P","Monthly",NA,NA,"",NA,NA,"170_rep1","sample","sample",NA,"170",1
+"L4_0.45R_March23",457,"March",2023,"28.03.2023","B1","L4","0.45","red","summer","13:54:00","14:05:00","1","1","1","1","4","P","Monthly",NA,NA,"",NA,NA,"171_rep1","sample","sample",NA,"171",1
+"L5_0.45_March23",459,"March",2023,"28.03.2023","B2","L5","0.45",NA,"summer","14:20:00","14:55:00","1","1","1","1","4","P","Monthly",NA,NA,"",NA,NA,"173_rep2","sample","sample",NA,"173",2
+"L6_0.45_March23",460,"March",2023,"28.03.2023","B2","L6","0.45",NA,"summer","14:10:00","14:45:00","1","1","1","1","4","NP","Monthly",NA,NA,"",NA,NA,"174_rep1","sample","sample",NA,"174",1
