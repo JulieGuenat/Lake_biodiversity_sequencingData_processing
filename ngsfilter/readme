@@ -1,0 +1,9 @@
+These files are used to demultiplex the sequencing data, but are necessary as well to cean sequencing data using the metabaR R package. 
+
+The columns correspond to: 
+1. name of the project
+2. Samples_ID
+3. Tag combination 
+4. Forward primer
+5. Reverse primer
+6. PCR plate position
