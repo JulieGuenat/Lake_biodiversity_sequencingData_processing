@@ -64,12 +64,14 @@ Taxa were classified as aquatic, terrestrial, or both, and assessed for ecologic
 1.Euka_DNA_Taxo_verified_pres_abs.csv: Taxonomically verified presence-absence matrix
 
 # Requirements
-Software
+## Software
 
 OBITools 4
+OBITools 1
+Sumaclust
 R (≥ 4.3.3)
 
-R Packages
+## R Packages
 
 metabaR (v1.0.0)
 Additional dependencies as specified in individual R scripts
