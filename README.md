@@ -5,7 +5,8 @@ This repository contains the bioinformatics pipeline and data processing scripts
 # Project Overview
 This pipeline processes Illumina MiniSeq paired-end sequencing data (150 bp) generated from water samples collected at the CNRS-ENS artificial lake platform in Nemours, France. The workflow amplifies two 18S rDNA regions (V7 and V9) using primer pairs Euka01 and Euka03 to assess multitrophic eukaryotic biodiversity.
 
-#Repository Structure
+# Repository Structure
+```
 .
 ├── OBITool4_scripts/          # OBITools 4 processing scripts
 ├── ngsfilter/                 # NGS filter files for demultiplexing
@@ -15,7 +16,9 @@ This pipeline processes Illumina MiniSeq paired-end sequencing data (150 bp) gen
 ├── ngsfilter_files/           # Additional demultiplexing files for metabaR
 ├── sample_files/              # Sample metadata files for metabaR
 ├── Metabar_outputfiles/       # Cleaned output files from metabaR processing
-└── 3-Merge_Euka0103_Replicates_DNA.R  # Script to merge Euka01 and Euka03 datasets
+├── 3-Merge_Euka0103_Replicates_DNA.R  # Script to merge Euka01 and Euka03 datasets
+├── 1.Euka_DNA_Taxo_verified_pres_abs.csv # final dataset
+```
 
 # Pipeline Workflow
 ## 1. Sequence Processing with OBITools 4
@@ -84,11 +87,13 @@ If you use this pipeline or data, please cite:
 [Your paper citation will go here once published]
 Raw sequencing data: NCBI BioProject PRJNAXXXXXX
 
-# License
-[Choose an appropriate license - e.g., MIT, GPL-3.0, CC-BY-4.0]
-
 # Contact
 julie.guenat@unil.ch
 
-# Acknowledgments
-This work was conducted at the CNRS-ENS artificial lake platform in Nemours, France.
+## Acknowledgments
+
+This research was conducted through a collaboration between:
+- **Laboratory for Conservation Biology (LBB)**, Department of Ecology and Evolution, University of Lausanne, Switzerland (Prof. Luca Fumagalli)
+- **CNRS-ENS Artificial Lake Platform**, Nemours, France
+
+We thank the CEREEP-Ecotron research station for providing access to the experimental lake facilities.
