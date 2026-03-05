@@ -86,7 +86,7 @@ Final verified dataset: 1.Euka_DNA_Taxo_verified_pres_abs.csv
 
 # Citation
 If you use this pipeline or data, please cite:
-[Your paper citation will go here once published]
+DOI]
 Raw sequencing data: NCBI BioProject PRJNAXXXXXX
 
 # Contact
